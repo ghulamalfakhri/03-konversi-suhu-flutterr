@@ -50,7 +50,7 @@ class _MyAppState extends State<MyApp> {
       ),
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Konverter Suhu -> Jihan R.A (2031710177)"),
+          title: Text("Konverter Suhu -> Ghulam Al Fakhri (2031710177)"),
         ),
         body: Container(
           margin: EdgeInsets.all(8),
